@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans&family=Merriweather&family=Montserrat&family=Outfit&family=Poppins&family=Sacramento&family=Ubuntu:wght@300&display=swap');
+
+body{
+  background-color:#B0C4DE;
+}
+img{
+width :20%;
+}
+h3{
+ margin-left:12px;
+ color:#5D6D7E;
+ position: relative;
+  width:80%;
+ margin:15px 30px 10px 20px;
+
+}
+.container{
+  background-color: white;
+  font-family: Outfit,sans-serif;
+  position: absolute;
+
+
+  width:20%;
+  height: 75%;
+  top:10%;
+  left:40%;
+  right: 30%;
+  border-radius: 15px;
+}
+.image{
+  position:relative;
+     width:90%;
+     margin-top: 10px;
+     margin-left:10px;
+     border-radius: 15px;
+}
+p{
+  color: #C0C0C0;
+  font-size:  smaller;
+  font-weight: bold;
+  margin-left: 20px;
+  margin-right:15px;
+}
